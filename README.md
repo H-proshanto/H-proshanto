@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate on open-source projects.<br>🤝 I’m looking for help with improving my coding skills and learning new technologies.<br>🌱 I’m currently learning Back-End Development.<br>💬 Ask me about anything related to Web Development, Engineering, Operating System, Philosophy etc.<br>⚡ Fun fact: I love to share knowledge.
+🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate on open-source projects.<br>🤝 I’m looking for help with improving my coding skills and learning new technologies.<br>🌱 I’m currently learning Back-End Development.<br>💬 Ask me about anything related to Web Development, Engineering, Operating System, Databases, Philosophy etc.<br>⚡ Fun fact: I love to share knowledge.
 
 
 ## 🌐 Socials:
